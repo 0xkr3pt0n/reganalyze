@@ -1,4 +1,5 @@
-# RegAanalyze python tool for forensic windows registry analysis
+# RegAanalyze
+python tool for forensic windows registry analysis
 
 ### installtion
 ```
